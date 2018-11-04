@@ -1,11 +1,11 @@
 #player,#player a{ color:#fff; }
-#player{ background:url(sizerAndVol.png); background-position:bottom; }
-#player .mainImage{ background:url(main.png); }
+#player{ background:url(https://i.imgur.com/XOxs9RZ.png); background-position:bottom; }
+#player .mainImage{ background:url(https://i.imgur.com/gPkqaSK.png); }
 
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:22px; }
-#player #play{ background:url(playBtn.png); }
+#player #play{ background:url(https://i.imgur.com/HyspbB8.png); }
 #player #play,#player #pause{ left:32px; }
 #player #previous{ left:8px; }
 #player #next{ left:55px; }
@@ -20,7 +20,7 @@
 #player #seekerSliderBase{ background-color:#fff; }
 
 #player #volume{ width:70px; right:33px; }
-#player #volumeSlider{ width:14px; background:url(sizerAndVol.png); }
+#player #volumeSlider{ width:14px; background:url(https://i.imgur.com/XOxs9RZ.png); }
 
 #playlist,#playlist .module,#playlist h3{ border-color:#86cf60; color:#529701; }
 #playlist h3{ background:url(bar.jpg);  text-shadow: white 1px 1px; }
